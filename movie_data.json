@@ -1,0 +1,76 @@
+{
+    "MovieDataApiStack-MovieDataTable48A56736-1K8MGK0KWJMM2": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "1"
+                    },
+                    "title": {
+                        "S": "The Dark Knight"
+                    },
+                    "releaseYear": {
+                        "S": "2008"
+                    },
+                    "director": {
+                        "S": "Christopher Nolan"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "2"
+                    },
+                    "title": {
+                        "S": "Oppenheimer"
+                    },
+                    "releaseYear": {
+                        "S": "2023"
+                    },
+                    "director": {
+                        "S": "Christopher Nolan"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "3"
+                    },
+                    "title": {
+                        "S": "Tenet"
+                    },
+                    "releaseYear": {
+                        "S": "2020"
+                    },
+                    "director": {
+                        "S": "Christopher Nolan"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "id": {
+                        "S": "4"
+                    },
+                    "title": {
+                        "S": "Killers of the Flower Moon"
+                    },
+                    "releaseYear": {
+                        "S": "2023"
+                    },
+                    "director": {
+                        "S": "Martin Scorsese"
+                    }
+                }
+            }
+        }
+    ]
+}
